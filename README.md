@@ -1,4 +1,5 @@
 ## Could the practice of agile development performed over a geographical distance impact the productivity of the team? ##
+## Proposal ##
 
 
 
