@@ -1,7 +1,16 @@
 ## Could the practice of agile development performed over a geographical distance impact the productivity of the team? ##
+
 ## Proposal ##
 
+I aim to answer the question “Could the practice of agile development performed over a geographical distance impact the productivity of the team?”.
 
+I intend the introduction of the assignment to explore my hypothesis that geographical distances that could have a negative productivity of the team.
+
+After researching papers that address any kind of agile practice performed over distance, I will narrow my search to be more specific looking for papers that mention geographical distance and other barriers to the agile development. I start by discussing these relevant papers and how/if they overcame these barriers contrasting this with the more traditional agile approach. Linking this to the idea of productivity by discussing how the lack of physical meeting may affect how well the team is working, looking specifically into how it could affect the relationships within the team, the ability of team to share inspiration and the final product produced. The focus being on agile development within the games industry. 
+
+For my conclusion, I will summarise my discussion and propose possible tools/solutions that may aid the practice of agile development under the given circumstances. 
+
+## References ##
 
 1)http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7577415/ 
 2)http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7202999/
