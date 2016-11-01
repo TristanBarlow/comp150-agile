@@ -1,14 +1,15 @@
-## Could the practice of agile development performed over a geographical distance impact the productivity of the team? ##
+## Could geographical distances affect the practice of SCRUM within a game development team? ##
 
 ## Proposal ##
 
-I aim to answer the question “Could the practice of agile development performed over a geographical distance impact the productivity of the team?”.
+I aim to answer the question “Could geographical distances affect the practice of SCRUM within a game development team?”
 
-I intend the introduction of the assignment to explore my hypothesis that geographical distances that could have a negative productivity of the team.
+I intend the introduction of the assignment to explore my hypothesis that geographical distance could have a negative impact when doing a SCRUM.
 
-After researching papers that address any kind of agile practice performed over distance, I will narrow my search to be more specific looking for papers that mention geographical distance and other barriers to the agile development. I start by discussing these relevant papers and how/if they overcame these barriers contrasting this with the more traditional agile approach. Linking this to the idea of productivity by discussing how the lack of physical meeting may affect how well the team is working, looking specifically into how it could affect the relationships within the team, the ability of team to share inspiration and the final product produced. The focus being on agile development within the games industry. 
+After researching papers that address any kind of agile practice performed over distance, I will narrow my search to be more specific looking for papers that mention geographical distance and SCRUM. I will start by discussing these relevant papers and how/if they overcame barriers they faced when doing a SCRUM contrasting this with the more traditional SCRUM approach. Linking this to the idea of productivity by discussing how the lack of physical meeting may affect how well the team is working, looking specifically into how it could affect the relationships within the team, the ability of team to share inspiration and the final product produced. Where possible I will find examples in the game industry, where not possible I will draw parallels between the industries.
 
-For my conclusion, I will summarise my discussion and propose possible tools/solutions that may aid the practice of agile development under the given circumstances. 
+For my conclusion, I will summarise my discussion and propose possible tools/solutions that may aid doing a SCRUM under the given circumstances.
+
 
 ## References ##
 
