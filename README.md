@@ -1,14 +1,9 @@
-## How could geographical distances affect an agile scrum sprint within the games industry? ##
+## Do daily scrums improve interpersonal relations within a game development team? ##
 
-## Proposal ##
+## Proposal ## WORK IN PROGRESS
+I intend the introduction of the assignment to explore my hypothesis that daily scrums improve the interpersonal relations 
+The main discussion of this essay will revolve around how daily scrums may impact the working relations of a team. I will focus mainly on comparing how this may vary from a game development team to a more traditional software development team. More specifically I will present the differences between software development and game development teams and how this could change the effect of the daily scrums.
 
-I aim to answer the question “ow could geographical distances affect an agile scrum sprint within the games industry?”
-
-I intend the introduction of the assignment to explore my hypothesis that geographical distance could have a negative impact when doing a sprint.
-
-After researching papers that address any kind of agile practice performed over distance, I will narrow my search to be more specific looking for papers that mention geographical distance and scrums. I will start by discussing these relevant papers and how/if they overcame barriers they faced when doing sprints contrasting this with the more traditional sprint approach. Linking this to the idea of productivity by discussing how the lack of physical meeting may affect how well the team is working, looking specifically into how it could affect the relationships within the team, the ability of team to share inspiration and the final product produced. Where possible I will find examples in the game industry, where not possible I will draw parallels between the industries.
-
-For my conclusion, I will summarise my discussion and propose possible tools/solutions that may aid a game development team performing an agile sprint.
 
 
 
