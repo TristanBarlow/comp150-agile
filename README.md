@@ -1,6 +1,6 @@
 ## Do daily scrums improve interpersonal relations within a game development team? ##
 
-## Proposal ## WORK IN PROGRESS
+## Proposal WORK IN PROGRESS
 I intend the introduction of the assignment to explore my hypothesis that daily scrums improve the interpersonal relations 
 The main discussion of this essay will revolve around how daily scrums may impact the working relations of a team. I will focus mainly on comparing how this may vary from a game development team to a more traditional software development team. More specifically I will present the differences between software development and game development teams and how this could change the effect of the daily scrums.
 
